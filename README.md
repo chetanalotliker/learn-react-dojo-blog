@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Create new react app
+
+- npx create-react-app dojo-blog
+
 ## Available Scripts
 
 In the project directory, you can run:
