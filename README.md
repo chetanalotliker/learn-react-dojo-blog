@@ -39,3 +39,8 @@ To create a json server
 ### `npm install react-router-dom@5`
 
 To install the package react-router
+
+## Build Ready
+
+- npm install -g serve
+- serve -s build
