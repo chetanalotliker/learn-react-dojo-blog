@@ -1,16 +1,16 @@
 {
   "blogs": [
     {
-      "title": "cdcd",
-      "body": "cdcdcd",
+      "title": "ChatGPT Software BLOG",
+      "body": "ChatGPT is a natural language processing tool driven by AI technology that allows you to have human-like conversations and much more with the chatbot. The language model can answer questions and assist you with tasks, such as composing emails, essays, and code.",
       "author": "mario",
-      "id": 1
+      "id": 2
     },
     {
-      "title": "cdc",
-      "body": "cd",
+      "title": "7 Wonders of the Ancient World",
+      "body": "The first ‘seven wonders of the ancient world’ list was made more than 2000 years ago, by adventurous Hellenic travelers who marveled at the world’s most incredible man-made constructions. Since then, most of the original list have been destroyed, aside from the Great Pyramid of Giza. In 2001, Swiss-born, Canadian filmmaker Bernard Weber set up the New7Wonders Foundation to find a new seven wonders of the world for the modern era, asking members of the public to cast their votes. After months of deliberating, debating and shortlists, these are the impressive feats that made the final cut.",
       "author": "yoshi",
-      "id": 2
+      "id": 3
     }
   ]
 }
