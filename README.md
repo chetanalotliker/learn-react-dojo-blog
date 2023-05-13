@@ -44,3 +44,7 @@ To install the package react-router
 
 - npm install -g serve
 - serve -s build
+
+## Host
+
+- npm install gh-pages --save-dev
