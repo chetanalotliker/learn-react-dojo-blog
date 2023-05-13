@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "cdcd",
+      "body": "cdcdcd",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "cdc",
+      "body": "cd",
+      "author": "yoshi",
+      "id": 2
+    }
+  ]
+}
