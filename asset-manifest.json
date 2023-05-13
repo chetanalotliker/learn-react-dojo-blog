@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/learn-react-dojo-blog/static/css/main.f1302bb2.css",
+    "main.js": "/learn-react-dojo-blog/static/js/main.bb54319d.js",
+    "index.html": "/learn-react-dojo-blog/index.html",
+    "main.f1302bb2.css.map": "/learn-react-dojo-blog/static/css/main.f1302bb2.css.map",
+    "main.bb54319d.js.map": "/learn-react-dojo-blog/static/js/main.bb54319d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1302bb2.css",
+    "static/js/main.bb54319d.js"
+  ]
+}
